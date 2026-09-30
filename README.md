@@ -232,7 +232,20 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 ### Raycast 更新后还能用吗？
 
-本补丁不能跨版本使用。升级前先恢复原版；升级后的汉化需要适配对应版本。
+应用更新会替换汉化所修改的资源，因此更新后可能恢复英文。本补丁不能跨版本使用，也不会阻止 Raycast 自动更新。
+
+- **准备升级：** 完全退出 Raycast，先用当前补丁包恢复原版，再升级；升级后只安装与应用完整版本、架构和文件指纹匹配的补丁。
+- **已经自动更新：** 不要在新版应用上运行旧补丁的恢复工具，也不要用旧备份手动覆盖新版资源。先核对完整版本号，再到 [Releases](https://github.com/zwjtano/raycast-macos-zh-CN/releases) 查找对应汉化包。
+- **已有对应补丁：** 如果官方更新后的应用资源是干净原版，可退出 Raycast 后按对应版本的安装说明操作；版本或文件指纹检查不通过时请停止，不要绕过校验。
+- **还没有对应补丁：** 暂时使用官方原版，等待适配。不要为了汉化强行覆盖其他版本。
+
+### 能关闭自动更新，同时保留商店搜索吗？
+
+截至 **2026-09-30**，本项目还没有完成“停止 Raycast 本体自动更新，同时保留商店搜索、安装和更新”的 macOS 实机验证，暂不提供未经验证的关闭更新命令或网络屏蔽规则。
+
+[Raycast 官方说明](https://developers.raycast.com/information/security#automatic-updates)将应用和扩展自动更新作为安全机制。屏蔽整个 Raycast 域名或禁止应用联网可能影响商店及其他在线功能。即使固定旧版应用，扩展仍可能因 [API 兼容性要求](https://developers.raycast.com/information/versioning#end-users)提示升级 Raycast，不能保证长期可安装或更新所有扩展。
+
+若商店搜索已经异常，请在 [Issue #1](https://github.com/zwjtano/raycast-macos-zh-CN/issues/1) 补充 Raycast 完整版本、macOS 版本、汉化包版本，以及是否使用过 hosts、代理、防火墙或第三方更新管理工具。若使用过，请说明相关规则；截图和日志请遮住账户、密钥及个人内容。
 
 ### 如何反馈漏译或安装问题？
 
