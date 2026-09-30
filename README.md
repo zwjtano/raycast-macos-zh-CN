@@ -24,7 +24,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 本项目提供中文补丁，不包含 Raycast 应用安装程序，也不是官方中文版。
 
-## 最新版本：v2.6.0.0-r9
+## 最新版本：v2.6.0.0
 
 - 适配 Raycast **2.6.0.0 arm64**，迁移主界面、设置、商店及插件显示翻译。
 - 补齐新版模型偏好、AI 用量、聊天记录、截图发送、设备配对等常用文案。
@@ -33,7 +33,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 - 保留商店快照前十页 100 个插件及 Mole 的已复核汉化，不代表所有插件流程全中文。
 - 安装、还原、版本和资源不匹配保护测试通过，还原后完整官方签名检查通过；本机中文主界面、更新日志列表及 2.6 中文正文已验证。
 
-**版本必须对应：** [2.6.0.0 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.6.0.0-r9) · [2.5.3.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.3.0-r8) · [2.5.2.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.2.0-r7) · [2.5.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.1.0-r6.1) · [2.4.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.4.1.0-r4)。旧版汉化包不可覆盖新版 Raycast。
+**版本必须对应：** [2.6.0.0 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.6.0.0) · [2.5.3.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.3.0-r8) · [2.5.2.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.2.0-r7) · [2.5.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.1.0-r6.1) · [2.4.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.4.1.0-r4)。旧版汉化包不可覆盖新版 Raycast。
 
 ## 汉化效果截图
 
@@ -55,7 +55,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 ## 安装教程
 
-[下载汉化包 ZIP](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.6.0.0-r9/Raycast-2.6.0.0-arm64-r9.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.6.0.0-r9/Raycast-2.6.0.0-arm64-r9.zip.sha256)
+[下载汉化包 ZIP](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.6.0.0/Raycast-2.6.0.0-arm64.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.6.0.0/Raycast-2.6.0.0-arm64.zip.sha256)
 
 在 Release 页的 Assets 中选择上述 ZIP，完整解压。GitHub 自动生成的 Source code 不是安装包；不要单独下载 `.command` 文件。
 
