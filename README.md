@@ -1,12 +1,12 @@
 # Raycast macOS 汉化｜简体中文界面与插件汉化包
 
-为 macOS 上的 **Raycast 2.7.2.0（Apple Silicon / arm64）** 提供简体中文界面的非官方汉化包。支持主界面、设置、部分提示，以及 100 个商店插件及 Mole 的商店文案和部分内部界面，附带安装与恢复原版工具。
+为 macOS 上的 **Raycast 2.7.3.0（Apple Silicon / arm64）** 提供简体中文界面的非官方汉化包。支持主界面、设置、部分提示，以及 100 个商店插件及 Mole 的商店文案和部分内部界面，附带安装与恢复原版工具。
 
 ## 选择你的平台
 
 | 平台 | 项目与安装说明 | 汉化包下载 |
 | --- | --- | --- |
-| macOS · 2.7.2.0 Apple Silicon | [Raycast macOS 汉化](https://github.com/zwjtano/raycast-macos-zh-CN) | [macOS 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest) |
+| macOS · 2.7.3.0 Apple Silicon | [Raycast macOS 汉化](https://github.com/zwjtano/raycast-macos-zh-CN) | [macOS 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/latest) |
 | Windows · 2.4.0.0 x64 | [Raycast Windows 汉化](https://github.com/zwjtano/raycast-windows-zh-CN) | [Windows 下载](https://github.com/zwjtano/raycast-windows-zh-CN/releases/latest) |
 
 Raycast macOS Simplified Chinese Localization。两个平台独立维护，请按系统和 Raycast 版本下载对应安装包。
@@ -15,7 +15,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 | 项目 | 支持情况 |
 | --- | --- |
-| Raycast 版本 | 2.7.2.0，安装时校验文件指纹 |
+| Raycast 版本 | 2.7.3.0，安装时校验文件指纹 |
 | 平台 | macOS，Apple Silicon（arm64） |
 | 中文语言 | 简体中文（zh-CN） |
 | 插件覆盖 | 100 个商店插件及 Mole，部分界面与商店文案 |
@@ -24,19 +24,19 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 本项目提供中文补丁，不包含 Raycast 应用安装程序，也不是官方中文版。
 
-## 最新版本：v2.7.2.0
+## 最新版本：v2.7.3.0
 
-- 适配 Raycast **2.7.2.0 arm64**，迁移主界面、设置、商店及插件显示翻译。
-- 迁移 2.7.1 已复核翻译；本次资源对比未发现新增的固定界面文案。
+- 适配 Raycast **2.7.3.0 arm64**，迁移主界面、设置、商店及插件显示翻译。
+- 迁移 2.7.2 已复核翻译；本次资源对比未发现新增的固定界面文案。
 - 汉化 **2.7 更新说明全文**，保留 2.6 中文更新说明及历史版本中文标题、中文日期；图片内嵌英文保留。
 - 保留商店快照前十页 100 个插件及 Mole 的已复核汉化，不代表所有插件流程全中文。
 - 安装、还原、版本和资源不匹配保护测试通过，还原后完整官方签名检查通过；本机中文主界面、更新日志列表及 2.7 中文正文已验证。
 
-**版本必须对应：** [2.7.2.0 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.7.2.0) · [2.7.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.7.1.0) · [2.6.0.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.6.0.0) · [2.5.3.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.3.0-r8) · [2.5.2.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.2.0-r7) · [2.5.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.1.0-r6.1) · [2.4.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.4.1.0-r4)。旧版汉化包不可覆盖新版 Raycast。
+**版本必须对应：** [2.7.3.0 下载](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.7.3.0) · [2.7.2.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.7.2.0) · [2.7.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.7.1.0) · [2.6.0.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.6.0.0) · [2.5.3.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.3.0-r8) · [2.5.2.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.2.0-r7) · [2.5.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.5.1.0-r6.1) · [2.4.1.0 历史版](https://github.com/zwjtano/raycast-macos-zh-CN/releases/tag/v2.4.1.0-r4)。旧版汉化包不可覆盖新版 Raycast。
 
 ## 汉化效果截图
 
-以下是旧版 Raycast 2.4.1.0 arm64 安装 r4 的实际界面截图，仅供参考；不是本次 2.7.2.0 的截图。
+以下是旧版 Raycast 2.4.1.0 arm64 安装 r4 的实际界面截图，仅供参考；不是本次 2.7.3.0 的截图。
 
 ### 主界面
 
@@ -54,7 +54,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 ## 安装教程
 
-[下载汉化包 ZIP](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.7.2.0/Raycast-2.7.2.0-arm64.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.7.2.0/Raycast-2.7.2.0-arm64.zip.sha256)
+[下载汉化包 ZIP](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.7.3.0/Raycast-2.7.3.0-arm64.zip) · [SHA-256 校验文件](https://github.com/zwjtano/raycast-macos-zh-CN/releases/download/v2.7.3.0/Raycast-2.7.3.0-arm64.zip.sha256)
 
 在 Release 页的 Assets 中选择上述 ZIP，完整解压。GitHub 自动生成的 Source code 不是安装包；不要单独下载 `.command` 文件。
 
@@ -68,9 +68,9 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 完全退出 Raycast，双击同一补丁包里的“恢复原版.command”，两次回车即可按默认路径恢复。恢复后会检查完整官方签名。
 
-安装前自动备份原始资源，位置为 `~/Library/Application Support/Raycast-Chinese-Patch/2.7.2.0/`。请保留备份及补丁包，且不要移动打过补丁的应用。
+安装前自动备份原始资源，位置为 `~/Library/Application Support/Raycast-Chinese-Patch/2.7.3.0/`。请保留备份及补丁包，且不要移动打过补丁的应用。
 
-升级 Raycast 前建议先恢复原版。如果已经通过官方更新变成干净的 2.7.2.0，可以直接安装本包；不要在新版应用上运行旧版本汉化包的恢复工具。同一 Raycast 版本内升级汉化补丁，先用当前补丁对应的恢复工具还原，再安装新版补丁。本包不能跨版本使用；应用更新或被其他工具修改后，恢复工具会拒绝覆盖。
+升级 Raycast 前建议先恢复原版。如果已经通过官方更新变成干净的 2.7.3.0，可以直接安装本包；不要在新版应用上运行旧版本汉化包的恢复工具。同一 Raycast 版本内升级汉化补丁，先用当前补丁对应的恢复工具还原，再安装新版补丁。本包不能跨版本使用；应用更新或被其他工具修改后，恢复工具会拒绝覆盖。
 
 ## 覆盖范围
 
@@ -220,7 +220,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 ### 支持 Intel Mac 或其他 Raycast 版本吗？
 
-本包仅支持 Raycast 2.7.2.0 arm64。Intel 版本和其他版本尚未适配，不要强行安装。
+本包仅支持 Raycast 2.7.3.0 arm64。Intel 版本和其他版本尚未适配，不要强行安装。
 
 ### 插件都完整汉化了吗？
 
@@ -253,7 +253,7 @@ Raycast macOS Simplified Chinese Localization。两个平台独立维护，请�
 
 ## English overview
 
-An unofficial **Simplified Chinese localization patch for Raycast on macOS**, targeting **Raycast 2.7.2.0 on Apple Silicon (arm64)**. Includes translated UI resources, selected text for 100 macOS Store extensions plus Mole, an installer, and a restore tool. Native menus remain English; translation coverage is partial. No Raycast application binary or personal data is included. Resource changes invalidate the complete app signature and may be blocked by macOS. Use only with the matching original version.
+An unofficial **Simplified Chinese localization patch for Raycast on macOS**, targeting **Raycast 2.7.3.0 on Apple Silicon (arm64)**. Includes translated UI resources, selected text for 100 macOS Store extensions plus Mole, an installer, and a restore tool. Native menus remain English; translation coverage is partial. No Raycast application binary or personal data is included. Resource changes invalidate the complete app signature and may be blocked by macOS. Use only with the matching original version.
 
 ## 第三方内容
 
